@@ -11,8 +11,7 @@ O objetivo deste repositório é documentar minha jornada de aprendizado e prati
 
 A estrutura do repositório é organizada da seguinte forma:
 
-```
-bash
+```bash
 📂 C-Exercises/
 │
 ├── 📂 BeeCrowd-C/
@@ -36,8 +35,8 @@ bash
 
 ## 📚 Conteúdo
 
-- **BeeCrowd:** [Aprendidos em: ](https://judge.beecrowd.com/pt).
-- **Udemy:** [Aprendidos em: ](https://www.udemy.com/c).
+- **BeeCrowd:** Aprendidos em: [BeeCrowd](https://judge.beecrowd.com/pt).
+- **Udemy:** Aprendidos em: [Udemy](https://www.udemy.com/c).
 - **Universidade:** Aprendidos em: Universidade UNIUBE - Uberlândia.
 - **Projetos Finais:** …
 
