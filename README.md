@@ -50,7 +50,7 @@ A estrutura do repositório é organizada da seguinte forma:
 1. Clone o repositório:
     
     ```bash
-    git clone <https://github.com/VictorBeatus/c-exercicios.git>
+    git clone <https://github.com/VictorBeatus/c-exercises.git>
     
     ```
     
