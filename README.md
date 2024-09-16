@@ -1,4 +1,4 @@
-```
+
 # 🖥️ Repositório de Exercícios em C
 
 Bem-vindo ao meu repositório de **C-Exercises**! Este repositório é uma coleção de programas e algoritmos criados para praticar e aprofundar os conhecimentos na linguagem C.
@@ -11,7 +11,8 @@ O objetivo deste repositório é documentar minha jornada de aprendizado e prati
 
 A estrutura do repositório é organizada da seguinte forma:
 
-```bash
+```
+bash
 📂 C-Exercises/
 │
 ├── 📂 BeeCrowd-C/
@@ -31,7 +32,6 @@ A estrutura do repositório é organizada da seguinte forma:
     ├── ao-quadrado.c
     ├── busca-binaria.c
     └── ...
-```
 ```
 
 ## 📚 Conteúdo
