@@ -29,7 +29,7 @@ A estrutura do repositório é organizada da seguinte forma:
 └── 📂 University-C/
     ├── 📂 output/
     ├── ao-quadrado.c
-    ├── busca-binaria.c
+    ├── nome-com-space.c
     └── ...
 ```
 
